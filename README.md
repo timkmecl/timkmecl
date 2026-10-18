@@ -7,8 +7,7 @@
 
 ### 🚀 High-Impact Highlights
 *   **Early AI Pioneer**: Launched one of the world's first **ChatGPT IDE integrations** within 7 days of OpenAI's public release. Scaled to **400,000+ installs**, recognized by *Visual Studio Magazine* alongside **GitHub Copilot**, featured in standalone articles by *FreeCodeCamp* and *GeeksForGeeks*, and vetted for acquisition by a **YC-backed startup**.
-*   **Supreme Court Expert**: Authored statistical forensics for a landmark 2026 case at the Slovene **Supreme Court**. My math identified and measured geographical voting anomalies. Implemented rigorous Python-based forensic pipelines (Hypothesis testing, Linear Regression).
-*   **Investigative Data Journalist**: Using LLMs and Python to audit national records for ***Mladina*** weekly, turning raw data into investigative evidence.
+*   **Investigative Data Journalist**: Used LLMs and Python to audit national records for ***Mladina*** weekly, turning raw data into investigative evidence.
 *   **Cited Researcher**: My software is a reference baseline in **ACM/IEEE ASE '23** and recommended in Pharma innovation reports by researchers from **Genentech & Roche**.
 
 ---
@@ -30,4 +29,4 @@
 
 ---
 
-*I specialize in high-stakes technology at the intersection of AI and Rigorous Mathematics. Open to high-impact opportunities in AI Research & Infra, Data Forensics, and Full Stack Web Dev.*
+*I specialize in high-stakes technology at the intersection of AI and Rigorous Mathematics. Open to high-impact opportunities in AI Research & Infra, Data Analysis, and Full Stack Web Dev.*
